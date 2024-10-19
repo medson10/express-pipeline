@@ -31,4 +31,4 @@ Após realizado um commit direto na branch única main do repositório no Github
 - HEROKU_EMAIL (email da sua conta no heroku)
   
 ## Deploy Automatizado: [Heroku](https://shielded-tor-48351-13d2dec269ea.herokuapp.com/)
-
+OBS: devido a práticas do Heroku, existe o risco de se não acessado com frequência o app, a plataforma muda o status da aplicação para "sleep", ou seja, fica inacessível.
