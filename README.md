@@ -10,7 +10,7 @@ Membros: Everton Vaszelewski, Julia Stopassola e Moura, Lucas José Pereira da C
 ![image](https://github.com/user-attachments/assets/954c00fa-1f37-4ba2-a089-b268f2d2454c)
 
 - Descrição do pipeline:
-Após realizado um commit direto na branch única main do repositório no Github, o build é iniciado. A instalação das dependências é triggada e executada com NPM, e após isso os Testes presentes são executados para garantir a execução plena do código. Logo, é realizada a análise da qualidade do código com ESLint e então, após estas etapas executadas, é feito o deploy para um ambiente em produção, que neste caso está sendo utilizado a plataforma Heroku.
+Após realizado um commit direto na branch única main do repositório no Github, o build é iniciado. A instalação das dependências é triggada e executada com NPM, e após isso os Testes presentes são executados para garantir a execução plena do código. Logo, é realizada a análise da qualidade do código com ESLint e então, após estas etapas executadas, é feito o deploy para um ambiente de produção, que neste caso está sendo utilizado a plataforma Heroku.
 
 - Modo de execução:
   
