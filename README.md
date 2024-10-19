@@ -11,7 +11,7 @@ Membros: Everton Vaszelewski, Julia Stopassola e Moura, Lucas José Pereira da C
 
 
 - Descrição do pipeline:
-Após realizado um commit direto na branch única main do repositório no Github, o build é iniciado. A instalação das dependências é triggada e executada com NPM, e após isso é realizada a análise da qualidade do código com ESLint.Logo, os Testes presentes são executados para garantir a execução plena do código, e então, após estas etapas executadas, é feito o deploy para um ambiente de produção, que neste caso está sendo utilizado a plataforma Heroku.
+Após realizado um commit direto na branch única main do repositório no Github, o build é iniciado. A instalação das dependências é triggada e executada com NPM, e após isso é realizada a análise da qualidade do código com ESLint. Logo, os Testes presentes são executados para garantir a execução plena do código, e então, após estas etapas executadas, é iniciado o deploy para um ambiente de produção, que neste caso está sendo utilizado a plataforma Heroku.
 
 ## Pré Requisitos:
 - Node 22.x
