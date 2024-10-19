@@ -15,8 +15,6 @@ Membros: Everton Vaszelewski, Julia Stopassola e Moura, Lucas José Pereira da C
 ![image](https://github.com/user-attachments/assets/954c00fa-1f37-4ba2-a089-b268f2d2454c)
 
 
-
-
-
-5. Análise de código e deploy automatizado (heroku)
-Se implementados, avaliação da correta configuração das ferramentas de análise estática e do deploy automatizado.
+- Análise de Código (  ):
+  
+- Deploy Automatizado (Heroku):
